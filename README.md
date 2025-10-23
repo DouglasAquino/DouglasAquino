@@ -11,13 +11,6 @@ Gosto de compartilhar conhecimento e contribuir com projetos que façam diferen�
   <a href="https://www.linkedin.com/in/douglasamoreno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
 
-<div>
-  <a href="https://github.com/DouglasAquino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasAquino&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-</div>
-  
----
-
 ## 🚀 Tecnologias que estou aprendendo e aprimorando
 
 ###  
@@ -29,7 +22,3 @@ JavaScript <img align="center" height="40" alt="javascript" width="40" src="http
 Bootstrap <img align="center" height="40" alt="bootstrap" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">  
 Flutter <img align="center" height="40" alt="flutter" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">  
 Figma <img align="center" height="40" alt="figma" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">  
-
----
-
-![Snake animation](https://github.com/DouglasAquino/DouglasAquino/blob/output/github-contribution-grid-snake.svg)
